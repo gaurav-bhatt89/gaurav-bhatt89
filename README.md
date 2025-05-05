@@ -1,3 +1,16 @@
+<!---
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?text=Hey&nbsp;Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=150"/>
+</p>
+--->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?text=Hey&nbsp;Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=150"/>
+</p>
+
+<p align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVjb2NubjI4cXoxZzVzNmY3MDd0YjI3bHJwNHI4ZGV3b3NnMDY4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
+</p>
+
 - 👋 Hi, I’m Gaurav Bhatt (@gaurav-bhatt89)
 - 👀 I’m interested in Data Analysis, Machine Learning, NLP, Deep Learning
 - 🌱 I’m currently learning Tensorflow, Keras
@@ -19,24 +32,30 @@
 gaurav-bhatt89/gaurav-bhatt89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!--<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<img src="https://github.com/user-attachments/assets/d6a2e74f-0eea-4824-80b5-6a3ae924316d" alt="vscode" width="45" height="45"/>
-<img src="https://github.com/user-attachments/assets/bdc60aec-2c51-421d-a7a2-9ee486eb9fac" alt="bash" width="45" height="45"/>
-<img src="https://github.com/user-attachments/assets/bf76405a-e825-4907-864d-e8d470e17760" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="php" width="45" height="45"/>
-<img src="https://github.com/user-attachments/assets/666c3d5a-f020-4988-ab90-4055affa936c" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="php" width="45" height="45"/>
-
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-aws-64.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-python-48.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-azure-48.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-bash-48.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-apache-spark-48.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-css3-48.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-excel-48.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-html5-48.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-mysql-48.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-php-64.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-webex-48.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-canva-48.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-ibm-watson-80.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-jira-64.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-postgresql-48.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-power-bi-48.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-red-hat-48.png" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-sap-48.png" alt="vscode" width="45" height="45"/>
 </p>
-![image](https://github.com/user-attachments/assets/bf76405a-e825-4907-864d-e8d470e17760)
- <!--  <![image](https://github.com/user-attachments/assets/666c3d5a-f020-4988-ab90-4055affa936c)
-  vscode python cLang cplusplus javascript react VueJS html css3 mongodb mysql nodejs php Laravel flutter docker kubernetes linux git bash figma 
 
+[![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurav-bhatt89&theme=radical&show_icons=true)](https://github.com/gaurav-bhatt89/github-readme-stats)
 
-
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=150"/>
+</p>
