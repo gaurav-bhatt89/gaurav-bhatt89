@@ -4,7 +4,7 @@
 </p>
 --->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?text=Hey&nbsp;Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=150"/>
+<img src="https://capsule-render.vercel.app/api?text=Gaurav's&nbsp;GitHub🕹️&animation=fadeIn&type=waving&color=gradient&height=150"/>
 </p>
 
 <p align="center">
