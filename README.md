@@ -55,6 +55,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 [![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurav-bhatt89&theme=radical&show_icons=true)](https://github.com/gaurav-bhatt89/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-bhatt89&layout=compact&theme=radical)
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=150"/>
