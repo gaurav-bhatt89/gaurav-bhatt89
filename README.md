@@ -54,9 +54,19 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/gaurav-bhatt89/logo-icons/blob/main/icons8-sap-48.png" alt="vscode" width="45" height="45"/>
 </p>
 
-[![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurav-bhatt89&theme=radical&show_icons=true)](https://github.com/gaurav-bhatt89/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-bhatt89&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=radical)
+<!--[![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurav-bhatt89&theme=radical&show_icons=true)](https://github.com/gaurav-bhatt89/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-bhatt89&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=radical)-->
 
+<p align="center">
+<a href="https://github.com/gaurav-bhatt89/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-bhatt89&theme=radical&show_icons=true"/>
+</a>
+<a href="https://github.com/gaurav-bhatt89/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-bhatt89&layout=compact&langs_count=8&theme=radical&card_width=320" />
+</a>
+</p>
+
+<hr></hr>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=150"/>
