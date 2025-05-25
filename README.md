@@ -12,7 +12,7 @@
 </p>
 
 - 👋 Hi, I’m Gaurav Bhatt (@gaurav-bhatt89)
-- 👀 I’m interested in Data Analysis, Machine Learning, NLP, Deep Learning 
+- 👀 I’m interested in Data Analysis, Machine Learning, NLP, Deep Learning
 - 🌱 I’m currently learning Tensorflow, Keras, Docker and Kubernetes
 - 💞️ I’m looking to collaborate on AI/ML problem use-cases, adv. analytics
 - 📫 How to reach me https://github.com/gaurav-bhatt89
